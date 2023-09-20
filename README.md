@@ -23,6 +23,7 @@ and how to set up a single Hadoop cluster here :
 The project is implemented using HADOOP DISTRIBUTED FILESYSTEM (HDFS) and SPARK.There are various guides online that show how to get a working 
 HDFS cluster and how to install Spark so the installation is outside of the scope of the project. After having installed HADOOP and SPARK you can proceed to the queries asked.
 Each task is described in it's corresponding unit in the pdf. 
+
 1. To get started take a look into the `Report.pdf` where all tasks and subtasks results are described and explained fully.
 2. Next you can move to the  `src ` directory, where you will find the code for all the tasks split into subdirectories.
 3. The  `output` directory contains the output files-results that each part of the code produced.
