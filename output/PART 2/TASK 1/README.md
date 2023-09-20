@@ -1,0 +1,1 @@
+We use again grep with invert to redirect only the output to the files and for the execution i just run one time each query (join algorithm) to get the execution time . I also used the takeOrdered() function to get the same consistently ordered (on department) data from both joins.
