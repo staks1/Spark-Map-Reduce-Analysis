@@ -10,10 +10,6 @@ This project explores different join implementations and optimizations using **A
 
 The project is divided into several subtasks, each found in its own subdirectory. It also includes performance evaluations and a report summarizing the results.
 
-<p align="center">
-  <img src="assets/preview.png" alt="Project Preview" width="700"/>
-</p>
-
 ---
 
 ## 🛠️ Technologies Used
